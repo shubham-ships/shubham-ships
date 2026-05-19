@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Shubham 👋
 
-<!--
-**shubham-ships/shubham-ships** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building scalable web applications and AI-powered systems.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript / TypeScript
+- React.js / Next.js
+- Node.js / Express.js
+- Python / FastAPI
+- PostgreSQL / Redis / Vector Databases
+- Docker
+
+## Interests
+
+- AI Applications & RAG Systems
+- Backend Architecture
+- System Design
+- Developer Tooling
+- Scalable APIs
+
+## Currently Exploring
+
+- AI integrations & agentic workflows
+- High-performance backend systems
+- Modern cloud-native development
+
+---
+
+> Focused on building reliable, scalable, and practical software.
