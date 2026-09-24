@@ -9,6 +9,8 @@ Full-stack developer building scalable web applications and AI-powered systems.
 - Node.js / Express.js
 - Python / FastAPI
 - PostgreSQL / Redis / Vector Databases
+- LLMs, Langchain, CrewAI
+- Data Mining and Warehousing
 - Docker
 
 ## Interests
@@ -24,6 +26,7 @@ Full-stack developer building scalable web applications and AI-powered systems.
 - AI integrations & agentic workflows
 - High-performance backend systems
 - Modern cloud-native development
+- Data Intensive Applications
 
 ---
 
